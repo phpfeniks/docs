@@ -4,8 +4,8 @@
 > The awesome Discord bot
 
 - Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Unique leveling exprience
+- Add ranks and roles
 
 [GitHub](https://github.com/phpfeniks)
 [Get Started](#feniks)
