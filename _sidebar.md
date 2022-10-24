@@ -1,5 +1,6 @@
+* [Feniks](/)
 * Administrators guide
-  * [Feniks](/)
+  * Quick start
 * Users guide
   * [Terms of service](/terms-of-service)
   * [Privacy policy](/privacy-policy)
