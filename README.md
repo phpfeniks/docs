@@ -10,11 +10,12 @@ Feniks is a Discord bot. The purpose of Feniks is to bring a unique feeling of p
 
 ## Features
 
-* Hosted by us, and ready to go
-* Earn XP by contributing
-* Advanced XP formula
-* Spam prevention
-* Create *seasonal* scoreboards 
+- Earn XP by contributing to the discussion
+- Advanced XP formula
+- Channel-specific XP gain
+- Apply roles based on XP gained
+- Spam prevention and message auditing functions
+- Create seasons with their own scoreboard
 
 ## Community
 
