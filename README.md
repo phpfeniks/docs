@@ -17,6 +17,14 @@ Feniks is a Discord bot. The purpose of Feniks is to bring a unique feeling of p
 - Spam prevention and message auditing functions
 - Create seasons with their own scoreboard
 
+## Commands
+
+- `/level` - Show your or another users stats and progress
+- `/scores` - Show server scoreboard
+- `/seasons` - List all seasons
+- `/season #season` - Show a seasonal scoreboard
+- `/help` - Show.. help.
+
 ## Community
 
 Users and the development team are usually in the [Discord server](https://discord.gg/8dPhbN4T7N).
