@@ -11,7 +11,7 @@ on a number of things. But generally speaking the higher this number is the more
 >
 This is the channel where Feniks will make the level-up announcements.
 
-![Level up](/img/level.png)
+![Level up](https://docs.feniksbot.com/img/level-up.png)
 
 ## Audit channel
 > **Sensible default:** A channel only moderators/administrators can read
@@ -19,4 +19,4 @@ This is the channel where Feniks will make the level-up announcements.
 This is the channel where audit messages will appear. Feniks will alert to edited and deleted messages in order
 to prevent cheating.
 
-![Audit](/img/message-deleted.png)
+![Audit](https://docs.feniksbot.com/img/message-deleted.png)
