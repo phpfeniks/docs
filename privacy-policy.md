@@ -6,16 +6,19 @@ the terms of this Policy.
 
 ## Stored data
 
-The following information is stored by Feniks.
+The following information is stored by Feniks. Only
 
 ### Guild information
-Discord ID, Guild name, avatar and active users (users that sends a message), role names and channel names
+Discord ID, Guild name, avatar and active users (users that sends a message), role names and channel names.
+We use this data to make the administrator dashboard work.
 
 ### User information
-Discord ID, Username and discriminator, nick names and avatar, number of points awarded
+Discord ID, Username and discriminator, nick names and avatar, number of points awarded.
+We use this information to keep track of the scores for different users on differnet servers.
  
 ### Messages
-Discord ID, length, channel it was sent in,  and points awarded
+Discord ID, length, channel it was sent in, and points awarded.
+We use this data to prevent spam and cheating. This information is kept for three days.
 
 ## Access to Data
 
