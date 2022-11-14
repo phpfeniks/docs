@@ -3,9 +3,6 @@
 ## Base XP
 > **Sensible default:** 10
 
-The `Base XP` is a number that all XP calculations is based upon. How much XP a user is awarded for each message depends
-on a number of things. But generally speaking the higher this number is the more XP a user is awarded for each message.
-
 ## Announcement channel
 > **Sensible default:** A channel that everyone can read
 >
