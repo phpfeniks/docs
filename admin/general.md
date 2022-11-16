@@ -1,11 +1,8 @@
 # General settings
 
-## Base XP
-> **Sensible default:** 10
-
 ## Announcement channel
 > **Sensible default:** A channel that everyone can read
->
+
 This is the channel where Feniks will make the level-up announcements.
 
 ![Level up](https://docs.feniksbot.com/img/level-up.png)
