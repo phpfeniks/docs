@@ -26,13 +26,14 @@ Feniks will ask for the `administrator` permission by default. The reason
 for this is to be able to access all channels and minimize the effort required
 to get started using Feniks.
 
-### Removing the administrator Permissions
+### Removing the administrator permission
 
 If you want you can remove the administrator permission from the `Feniks` role.
 If you do, be sure to give it the `Manage Roles` permission if you want to
 be able assign roles when users level up.
 
 ![Administrator permission](https://docs.feniksbot.com/img/administrator-permisssion.png)
+
 ![Administrator permission](https://docs.feniksbot.com/img/manage-roles-permission.png)
 
 !> Feniks will only be able to award XP for messages in channels it has access to.
